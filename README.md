@@ -6,10 +6,11 @@ This project implements a voice assistant using OpenAI's Whisper for speech reco
 
 ## Features
 
-- Wake word detection ("jarvis")
+- Wake word detection ("Hey Assistant")
 - Speech-to-text conversion using Whisper
 - Natural language processing using Gemma:2b
 - Text-to-speech output
+- Non-blocking response output and simultaneous threaded speaking
 
 ## Requirements
 

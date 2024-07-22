@@ -163,3 +163,5 @@ cython_debug/
 .envrc
 *.wav
 archive/
+.aider*
+*.mp3
